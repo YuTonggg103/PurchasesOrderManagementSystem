@@ -1,0 +1,15 @@
+SIGMA1,apple,fresh produce,6,100,-,supplier1
+SIGMA2,spinach,fresh produce,2,60,-,supplier1
+SIGMA3,canned beans,grocery,4,1000,20250803,supplier3
+SIGMA4,sushi rolls,fresh food,10,80,20230930,supplier5
+SIGMA5,tomato,fresh produce,3,100,-,supplier1
+SIGMA6,salad with mixed greens,fresh food,8,60,20230930,supplier1
+SIGMA7,pasta,grocery,7,500,20240514,supplier3
+SIGMA8,rice,grocery,6,450,20261009,supplier3
+SIGMA9,bread,grocery,3,90,20231002,supplier4
+SIGMA10,bell pepper,fresh produce,4,70,-,supplier1
+SIGMA11,grape,fresh produce,8,60,-,supplier5
+SIGMA12,cooking oil,grocery,10,300,20240717,supplier3
+SIGMA13,grilled checken breast,fresh food,15,50,20230930,supplier2
+SIGMA14,stir-fried vegetables,fresh food,8,30,20230930,supplier2
+SIGMA15,fruit salad,fresh food,10,50,20230930,supplier2

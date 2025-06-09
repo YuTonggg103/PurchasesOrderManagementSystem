@@ -1,0 +1,6 @@
+he566,apple,fresh produce,2
+he597,pasta,grocery,5
+he02333,rice,grocery,4
+he5555,bread,grocery,0.8
+he12,cooking oil,grocery,5
+he3,canned beans,grocery,3.5

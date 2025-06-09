@@ -1,0 +1,3 @@
+SIGMA5,tomato,fresh produce,3.0,20
+SIGMA6,salad with mixed greens,fresh food,8.0,10
+SIGMA7,pasta,grocery,7.0,30

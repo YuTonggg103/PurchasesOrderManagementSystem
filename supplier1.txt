@@ -1,0 +1,6 @@
+yt2350,apple,fresh produce,3
+yt5623,spinach,fresh produce,0.8
+yt889,salad with mixed greens,fresh food,4
+yt3,tomato,fresh produce,0.9
+yt566,pear,fresh product,4
+yt65,bell pepper,fresh produce,2

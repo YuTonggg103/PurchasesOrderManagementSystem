@@ -1,0 +1,5 @@
+a4556,sushi rolls,fresh food,6
+a4512,fruit salad,fresh food,4
+a9965,grape,fresh produce,10
+a3254,onirigi,fresh food,2
+a126,nigiri,fresh food,3

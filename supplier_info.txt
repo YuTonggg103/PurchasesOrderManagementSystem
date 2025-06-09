@@ -1,0 +1,5 @@
+supplier1,YT_Farm,0163698521,yt@gmail.com
+supplier2,QH_Kitchen,0129856324,qh@gmail.com
+supplier3,HE_Mart,0178965474,he@gmail.com
+supplier4,Gardenia_Bread,0193214555,gardenia@gmail.com
+supplier5,MARiA_Sushi,0131199231,info@super-direction.com

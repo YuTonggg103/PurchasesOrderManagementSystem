@@ -1,0 +1,5 @@
+a666,bread,grocery,0.7
+a4512,waffle,grocery,0.9
+a99,croissant,grocery,1.3
+a3254,macaron,grocery,2.6
+a5,noodle,grocery,5

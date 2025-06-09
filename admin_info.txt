@@ -1,0 +1,5 @@
+admin1,123,admin,Alice,1234567899,admin1@mail.sigma.my
+admin2,abs,admin,John,1234567898,admin2@mail.sigma.my
+admin3,sas,admin,Adam,1234567897,admin3@mail.sigma.my
+admin4,java,admin,Antony,1234567896,admin4@mail.sigma.my
+admin5,python123,admin,Tony,1234567895,admin5@mail.sigma.my
